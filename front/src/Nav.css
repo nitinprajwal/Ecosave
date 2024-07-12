@@ -1,0 +1,10 @@
+/* Custom styles for the Nav component */
+
+.navbar-brand {
+    margin-right: auto; /* Ensure the brand is aligned to the left */
+  }
+  
+  .navbar-nav {
+    margin-left: auto; /* Ensure the navigation links are centered */
+  }
+  
